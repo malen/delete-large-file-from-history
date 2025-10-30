@@ -16,3 +16,6 @@ uv pip install git-filter-repo
 ```bash
 git filter-repo --path bootstrap-5.3.7-dist.zip --invert-paths --force
 ```
+
+git remote add origin https://github.com/malen/delete-large-file-from-history.git
+git push --set-upstream origin develop

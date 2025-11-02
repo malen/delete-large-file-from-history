@@ -19,4 +19,7 @@ git filter-repo --path installer --invert-paths --force
 
 git remote add origin https://github.com/malen/delete-large-file-from-history.git
 git push --set-upstream origin develop
+
+### 非常关键
+
 git push origin -f --all

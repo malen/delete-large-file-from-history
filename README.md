@@ -23,3 +23,6 @@ git push --set-upstream origin develop
 ### 非常关键
 
 git push origin -f --all
+
+
+https://www.notion.so/Azure-Functions-6ed753b22ac547a182f9750c1fd1ddc7?source=copy_link
